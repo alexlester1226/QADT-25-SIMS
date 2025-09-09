@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+	<name>Stages Map</name>
+
+	<Placemark>
+	  <name>Stage 1</name>
+	  <Point>
+	    <coordinates>-110.73922868478785,50.10217575,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 2</name>
+	  <Point>
+	    <coordinates>-110.73922868478785,50.103074050000004,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 3</name>
+	  <Point>
+	    <coordinates>-110.73977493937278,50.103074050000004,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 4</name>
+	  <Point>
+	    <coordinates>-110.73977493937278,50.101277450000005,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 5</name>
+	  <Point>
+	    <coordinates>-110.73922868478785,50.101277450000005,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 6</name>
+	  <Point>
+	    <coordinates>-110.73922868478785,50.103074050000004,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 7</name>
+	  <Point>
+	    <coordinates>-110.73868243020291,50.103074050000004,0</coordinates>
+	  </Point>
+	</Placemark>
+
+	<Placemark>
+	  <name>Stage 8</name>
+	  <Point>
+	    <coordinates>-110.73868243020291,50.101277450000005,0</coordinates>
+	  </Point>
+	</Placemark>
+
+  </Document>
+</kml>
